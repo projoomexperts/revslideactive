@@ -1,34 +1,7 @@
 <?php
 
-/**
- * Fired during plugin activation
- *
- * @link       https://github.com/projoomexperts/revslideactive
- * @since      1.0.0
- *
- * @package    Revslideactive
- * @subpackage Revslideactive/includes
- */
-
-/**
- * Fired during plugin activation.
- *
- * This class defines all code necessary to run during the plugin's activation.
- *
- * @since      1.0.0
- * @package    Revslideactive
- * @subpackage Revslideactive/includes
- * @author     projoomexperts <projoomexperts@gmail.com>
- */
 class Revslideactive_Activator {
 
-	/**
-	 * Short Description. (use period)
-	 *
-	 * Long Description.
-	 *
-	 * @since    1.0.0
-	 */
 	public static function activate() {
 		
 		
