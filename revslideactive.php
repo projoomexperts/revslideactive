@@ -8,7 +8,7 @@
  * @wordpress-plugin
  * Plugin Name:       RevSlideActive
  * Plugin URI:        https://github.com/projoomexperts/revslideactive
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       A Simple plugin that activates Revolution Slider with random generated key.
  * Version:           1.0.0
  * Author:            projoomexperts
  * Author URI:        https://github.com/projoomexperts/revslideactive
